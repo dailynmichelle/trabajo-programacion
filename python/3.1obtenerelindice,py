@@ -1,0 +1,7 @@
+#crear una lista
+
+mi_lista = ["manzana", "platanos", "cerezas","tomates"]
+
+print(mi_lista[01])
+print(mi_lista[3])
+print(mi_lista[1])
